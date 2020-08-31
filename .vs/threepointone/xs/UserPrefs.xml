@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{9A50A0BB-B22B-442A-9C01-661F8F271B0B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="threepointone/util/util.cs">
+    <Files>
+      <File FileName="threepointone/pages/Bumble.cs" Line="121" Column="1" />
+      <File FileName="threepointone/util/util.cs" Line="26" Column="10" NotebookId="1" />
+      <File FileName="threepointone/tests/TestCases.cs" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.threepointone PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
